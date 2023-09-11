@@ -1,6 +1,3 @@
-Por supuesto, aquí tienes el README completo en inglés:
-
-
 # Senior Developer Test - NicoPay Ecosystem
 
 Welcome to the exciting Senior Developer test within the vibrant NicoPay ecosystem! In this test, you will immerse yourself in integrating three essential components: the mysterious Tertiary Tree, the powerful NicoPay SDK, and the fearless NicoPay, our leading transactional system. Additionally, you will be tasked with incorporating the NicoPay SDK into the innovative PaymentsNico. Get ready for a challenging and exhilarating experience!
